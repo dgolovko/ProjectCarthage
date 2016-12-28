@@ -19,7 +19,10 @@ class ViewController: UIViewController {
         button.adjustsImageWhenHighlighted = false
         button.adjustsImageWhenDisabled = false
         button.reactive.controlEvents(.touchUpInside).observe { (_) in
-            print("111")
+            let alert = UIAlertController(title: "按钮点击", message: "", preferredStyle: .alert)
+            let cancelAction = UIAlertAction(title: "取消", style: .cancel, handler:nil)
+            alert.addAction(cancelAction)
+            self.present(alert, animated: true, completion: nil)
         }
         return button
     }()
