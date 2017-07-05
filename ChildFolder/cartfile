@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire"
+github "onevcat/Kingfisher"
+github "Hearst-DD/ObjectMapper"
+github "SnapKit/SnapKit"
+github "ReactiveCocoa/ReactiveCocoa" "5.0.0-rc.1"
