@@ -12,13 +12,13 @@
 		AD5B11801E139D2A006A4F07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD5B117E1E139D2A006A4F07 /* Main.storyboard */; };
 		AD5B11821E139D2A006A4F07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD5B11811E139D2A006A4F07 /* Assets.xcassets */; };
 		AD5B11851E139D2A006A4F07 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD5B11831E139D2A006A4F07 /* LaunchScreen.storyboard */; };
-		ADAA2CC01E13AB0800E8D2A6 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADAA2CBF1E13AB0800E8D2A6 /* Alamofire.framework */; };
-		ADAA2CC71E13AB2000E8D2A6 /* Kingfisher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADAA2CC11E13AB2000E8D2A6 /* Kingfisher.framework */; };
-		ADAA2CC81E13AB2000E8D2A6 /* ObjectMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADAA2CC21E13AB2000E8D2A6 /* ObjectMapper.framework */; };
-		ADAA2CC91E13AB2000E8D2A6 /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADAA2CC31E13AB2000E8D2A6 /* ReactiveCocoa.framework */; };
-		ADAA2CCA1E13AB2000E8D2A6 /* ReactiveSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADAA2CC41E13AB2000E8D2A6 /* ReactiveSwift.framework */; };
-		ADAA2CCB1E13AB2000E8D2A6 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADAA2CC51E13AB2000E8D2A6 /* Result.framework */; };
-		ADAA2CCC1E13AB2000E8D2A6 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADAA2CC61E13AB2000E8D2A6 /* SnapKit.framework */; };
+		CEA90AB81F0E2C5B0000AA8B /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEA90AB71F0E2C5B0000AA8B /* SnapKit.framework */; };
+		CEA90AC11F0E2F4B0000AA8B /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEA90ABB1F0E2F4B0000AA8B /* Alamofire.framework */; };
+		CEA90AC21F0E2F4B0000AA8B /* Kingfisher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEA90ABC1F0E2F4B0000AA8B /* Kingfisher.framework */; };
+		CEA90AC31F0E2F4B0000AA8B /* ObjectMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEA90ABD1F0E2F4B0000AA8B /* ObjectMapper.framework */; };
+		CEA90AC41F0E2F4B0000AA8B /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEA90ABE1F0E2F4B0000AA8B /* ReactiveCocoa.framework */; };
+		CEA90AC51F0E2F4B0000AA8B /* ReactiveSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEA90ABF1F0E2F4B0000AA8B /* ReactiveSwift.framework */; };
+		CEA90AC61F0E2F4B0000AA8B /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEA90AC01F0E2F4B0000AA8B /* Result.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,13 +29,13 @@
 		AD5B11811E139D2A006A4F07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD5B11841E139D2A006A4F07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD5B11861E139D2A006A4F07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ADAA2CBF1E13AB0800E8D2A6 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
-		ADAA2CC11E13AB2000E8D2A6 /* Kingfisher.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Kingfisher.framework; path = Carthage/Build/iOS/Kingfisher.framework; sourceTree = "<group>"; };
-		ADAA2CC21E13AB2000E8D2A6 /* ObjectMapper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ObjectMapper.framework; path = Carthage/Build/iOS/ObjectMapper.framework; sourceTree = "<group>"; };
-		ADAA2CC31E13AB2000E8D2A6 /* ReactiveCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveCocoa.framework; path = Carthage/Build/iOS/ReactiveCocoa.framework; sourceTree = "<group>"; };
-		ADAA2CC41E13AB2000E8D2A6 /* ReactiveSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveSwift.framework; path = Carthage/Build/iOS/ReactiveSwift.framework; sourceTree = "<group>"; };
-		ADAA2CC51E13AB2000E8D2A6 /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = Carthage/Build/iOS/Result.framework; sourceTree = "<group>"; };
-		ADAA2CC61E13AB2000E8D2A6 /* SnapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SnapKit.framework; path = Carthage/Build/iOS/SnapKit.framework; sourceTree = "<group>"; };
+		CEA90AB71F0E2C5B0000AA8B /* SnapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SnapKit.framework; path = ../Carthage/Build/iOS/SnapKit.framework; sourceTree = "<group>"; };
+		CEA90ABB1F0E2F4B0000AA8B /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = ../Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		CEA90ABC1F0E2F4B0000AA8B /* Kingfisher.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Kingfisher.framework; path = ../Carthage/Build/iOS/Kingfisher.framework; sourceTree = "<group>"; };
+		CEA90ABD1F0E2F4B0000AA8B /* ObjectMapper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ObjectMapper.framework; path = ../Carthage/Build/iOS/ObjectMapper.framework; sourceTree = "<group>"; };
+		CEA90ABE1F0E2F4B0000AA8B /* ReactiveCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveCocoa.framework; path = ../Carthage/Build/iOS/ReactiveCocoa.framework; sourceTree = "<group>"; };
+		CEA90ABF1F0E2F4B0000AA8B /* ReactiveSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveSwift.framework; path = ../Carthage/Build/iOS/ReactiveSwift.framework; sourceTree = "<group>"; };
+		CEA90AC01F0E2F4B0000AA8B /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = ../Carthage/Build/iOS/Result.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,13 +43,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADAA2CC71E13AB2000E8D2A6 /* Kingfisher.framework in Frameworks */,
-				ADAA2CC81E13AB2000E8D2A6 /* ObjectMapper.framework in Frameworks */,
-				ADAA2CC91E13AB2000E8D2A6 /* ReactiveCocoa.framework in Frameworks */,
-				ADAA2CCA1E13AB2000E8D2A6 /* ReactiveSwift.framework in Frameworks */,
-				ADAA2CCB1E13AB2000E8D2A6 /* Result.framework in Frameworks */,
-				ADAA2CCC1E13AB2000E8D2A6 /* SnapKit.framework in Frameworks */,
-				ADAA2CC01E13AB0800E8D2A6 /* Alamofire.framework in Frameworks */,
+				CEA90AC11F0E2F4B0000AA8B /* Alamofire.framework in Frameworks */,
+				CEA90AC21F0E2F4B0000AA8B /* Kingfisher.framework in Frameworks */,
+				CEA90AC31F0E2F4B0000AA8B /* ObjectMapper.framework in Frameworks */,
+				CEA90AC41F0E2F4B0000AA8B /* ReactiveCocoa.framework in Frameworks */,
+				CEA90AC51F0E2F4B0000AA8B /* ReactiveSwift.framework in Frameworks */,
+				CEA90AC61F0E2F4B0000AA8B /* Result.framework in Frameworks */,
+				CEA90AB81F0E2C5B0000AA8B /* SnapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -89,13 +89,13 @@
 		ADAA2CBE1E13AB0800E8D2A6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				ADAA2CC11E13AB2000E8D2A6 /* Kingfisher.framework */,
-				ADAA2CC21E13AB2000E8D2A6 /* ObjectMapper.framework */,
-				ADAA2CC31E13AB2000E8D2A6 /* ReactiveCocoa.framework */,
-				ADAA2CC41E13AB2000E8D2A6 /* ReactiveSwift.framework */,
-				ADAA2CC51E13AB2000E8D2A6 /* Result.framework */,
-				ADAA2CC61E13AB2000E8D2A6 /* SnapKit.framework */,
-				ADAA2CBF1E13AB0800E8D2A6 /* Alamofire.framework */,
+				CEA90ABB1F0E2F4B0000AA8B /* Alamofire.framework */,
+				CEA90ABC1F0E2F4B0000AA8B /* Kingfisher.framework */,
+				CEA90ABD1F0E2F4B0000AA8B /* ObjectMapper.framework */,
+				CEA90ABE1F0E2F4B0000AA8B /* ReactiveCocoa.framework */,
+				CEA90ABF1F0E2F4B0000AA8B /* ReactiveSwift.framework */,
+				CEA90AC01F0E2F4B0000AA8B /* Result.framework */,
+				CEA90AB71F0E2C5B0000AA8B /* SnapKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -110,7 +110,7 @@
 				AD5B11731E139D2A006A4F07 /* Sources */,
 				AD5B11741E139D2A006A4F07 /* Frameworks */,
 				AD5B11751E139D2A006A4F07 /* Resources */,
-				ADAA2CCD1E13ADEE00E8D2A6 /* ShellScript */,
+				ADAA2CCD1E13ADEE00E8D2A6 /* Run Script */,
 			);
 			buildRules = (
 			);
@@ -169,20 +169,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		ADAA2CCD1E13ADEE00E8D2A6 /* ShellScript */ = {
+		ADAA2CCD1E13ADEE00E8D2A6 /* Run Script */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/Kingfisher.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/ReactiveCocoa.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/ReactiveSwift.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/Result.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/SnapKit.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/ObjectMapper.framework",
+				"$(SRCROOT)/../Carthage/Build/iOS/Kingfisher.framework",
+				"$(SRCROOT)/../Carthage/Build/iOS/ReactiveCocoa.framework",
+				"$(SRCROOT)/../Carthage/Build/iOS/ReactiveSwift.framework",
+				"$(SRCROOT)/../Carthage/Build/iOS/Result.framework",
+				"$(SRCROOT)/../Carthage/Build/iOS/SnapKit.framework",
+				"$(SRCROOT)/../Carthage/Build/iOS/Alamofire.framework",
+				"$(SRCROOT)/../Carthage/Build/iOS/ObjectMapper.framework",
 			);
+			name = "Run Script";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -322,6 +323,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/../Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = ProjectCarthage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -339,6 +341,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/../Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = ProjectCarthage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
